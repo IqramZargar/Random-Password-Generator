@@ -32,6 +32,7 @@ Prints the final password for the user to copy and use.
 
 🧪 Example
 bash
+
 ------------------WELCOME TO RANDOM PASSWORD GENERATOR--------------------------
 -> THE PASSWORD THAT WILL BE GENERATED WILL CONTAIN RANDOM COMBINATION OF (A-Z),(a-z),(0-9), AND SPECIAL CHARECTERS.
 -> WHAT SHOULD BE THE LENGTH OF PASSWORD :- 12
