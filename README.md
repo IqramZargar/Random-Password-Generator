@@ -1,4 +1,5 @@
 🔐 Random Password Generator
+
 Welcome to the Random Password Generator! This simple Python script allows you to generate a strong, random password consisting of:
 
 Uppercase letters (A-Z)
