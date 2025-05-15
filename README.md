@@ -76,7 +76,11 @@ The generated password is printed directly to the console. Make sure to copy it 
 For enhanced security, never reuse generated passwords or share them with others.
 
 📄 License
-This project is open-source and free to use.
+This project is licensed under the MIT License. See LICENSE for more details.
+
+
+✨ Author
+Made with ❤️ by Muhammad Iqram Zargar
 
 
 # Random-Password-Generator
